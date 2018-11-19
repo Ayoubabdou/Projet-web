@@ -875,8 +875,11 @@
 		width: 100%;
 		z-index: 10000;
 	}
+		img {
+			display: block inline;	
+		}
 
-		#header h1 {
+		#header h1  {
 			color: #ffffff;
 			height: inherit;
 			left: 2.5em;
